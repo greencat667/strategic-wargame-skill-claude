@@ -24,7 +24,9 @@ The skill also includes an explicit methodological framing that gets passed to e
 
 ## Installation
 
-Copy the `strategic-wargame/` folder into your project's `.claude/skills/` directory:
+**Ask Claude to set it up for you.** If you're using Claude Code or Claude Cowork, you can just say something like *"install the strategic-wargame skill from github.com/greencat667/strategic-wargame-skill-claude"* and Claude will clone the repo and put it in the right place — you don't need to do this by hand.
+
+Or do it yourself: copy the `strategic-wargame/` folder into your project's `.claude/skills/` directory:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/strategic-wargame-skill-claude.git
