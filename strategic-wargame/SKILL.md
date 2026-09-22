@@ -74,7 +74,7 @@ For each player, specify:
 
 | Field | Description |
 |-------|-------------|
-| **Name** | Organisation or actor name (e.g. "Greenfield Energy Ltd", "Ceredigion County Council", "Local Residents' Alliance") |
+| **Name** | Organisation or actor name (e.g. "Greenfield Energy Ltd", "Millbrook District Council", "Local Residents' Alliance") |
 | **Type** | Organisation / government / community group / company / individual / coalition |
 | **Objectives** | 2–3 explicit strategic goals, ranked by priority. These must be specific and testable — not "do well" but "secure planning permission by Round 3" or "build a coalition of >3 local groups opposing the development" |
 | **Resources** | What they can actually deploy — budget, staff, legal standing, political access, public support, media reach, technical expertise |
