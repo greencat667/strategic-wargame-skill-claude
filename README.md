@@ -45,6 +45,10 @@ Once installed, just ask Claude something like:
 
 This is a qualitative simulation, not a prediction engine. It's useful for stress-testing a strategy before committing resources, surfacing blind spots about how other actors are likely to respond, and identifying which moments in a process matter most. It is not useful for precise probability estimates or as a substitute for actual stakeholder engagement.
 
+## Using this outside Claude
+
+Nothing here is Claude-specific — `strategic-wargame/SKILL.md` is a plain instruction file describing the round-by-round simulation. To run it with ChatGPT or another AI assistant, give it this repo's URL (or paste in `SKILL.md`) and ask it to set itself up and run the wargame on your scenario. It's a one-shot request each time you describe a situation — nothing needs scheduling, though an assistant that can search the web for real-world context in step 1 will get more grounded results than one without.
+
 ## Repository structure
 
 ```
