@@ -35,6 +35,12 @@ cp -r strategic-wargame-skill-claude/strategic-wargame/ your-project/.claude/ski
 
 Claude will pick it up automatically from `available_skills` next time you start a session.
 
+## Example prompt
+
+Once installed, just ask Claude something like:
+
+> "Run a strategic wargame on a proposed housing development that a local community group is opposing — 4 rounds, players include the developer, the council, the community group, and a regional newspaper."
+
 ## A note on what this is
 
 This is a qualitative simulation, not a prediction engine. It's useful for stress-testing a strategy before committing resources, surfacing blind spots about how other actors are likely to respond, and identifying which moments in a process matter most. It is not useful for precise probability estimates or as a substitute for actual stakeholder engagement.
